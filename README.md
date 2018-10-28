@@ -10,4 +10,4 @@ Each gif can be animated by clicking on the picture. They will stop if you click
 
 Have fun!
 
-To view this app:
+To view this app: https://smatthiae13.github.io/Homework-6/
