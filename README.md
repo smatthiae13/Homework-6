@@ -11,3 +11,5 @@ Each gif can be animated by clicking on the picture. They will stop if you click
 Have fun!
 
 To view this app: https://smatthiae13.github.io/Homework-6/
+
+I have fixed the animate bug, I am still working on fixing the rest. Come back soon.
